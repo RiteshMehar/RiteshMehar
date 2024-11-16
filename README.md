@@ -5,12 +5,12 @@
 I love transforming ideas into impactful solutions by designing **scalable cloud architectures** and **automating workflows**.
 
 🔍 **Current Learning Focus:** 
-- ☁️ **AWS Explorer** – Constantly deepening my understanding of cloud architectures.
-- 🕹️ **Mastering Git** – Seamlessly managing code and collaboration with precision.  
-- ⚙️ **CI/CD Believer** – Striving for fast, reliable deployments with Jenkins pipelines.
-- 🤖 **Automation** – Transforming manual processes into automated workflows using Ansible and Jenkins.
-- 🧠 **Tech Curiosity** – Always exploring, adapting, and evolving with technology.
-- 🔄 **Process Optimizer** – Enjoy finding new ways to streamline workflows.
+- **AWS Explorer** – Constantly deepening my understanding of cloud architectures.
+- **Mastering Git** – Seamlessly managing code and collaboration with precision.  
+- **CI/CD Believer** – Striving for fast, reliable deployments with Jenkins pipelines.
+- **Automation** – Transforming manual processes into automated workflows using Ansible and Jenkins.
+- **Tech Curiosity** – Always exploring, adapting, and evolving with technology.
+- **Process Optimizer** – Enjoy finding new ways to streamline workflows.
 
 ---
 
